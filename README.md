@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Malek BEJAOUI</h1>
-<h3 align="center">🎓 Embedded Systems Engineer | 🚀 Electronics & IoT Enthusiast | 🇫🇷 Based in France</h3>
+<h3 align="center">🎓 Embedded Systems Engineer | 🇫🇷 Based in France</h3>
 
 ---
 
@@ -100,13 +100,14 @@ Real-time production monitoring using **Siemens LOGO!** PLC and **Raspberry Pi**
 
 - 📧 **malek.bejaoui@bordeaux-inp.fr**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/maleek-bejaoui)  
-- 💻 [GitHub](https://github.com/Maleek-Bejaoui)
 
 ---
 
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maleek-Bejaoui&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maleek-Bejaoui&layout=compact&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maleek-Bejaoui&layout=compact&theme=radical)
 
 ---
