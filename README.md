@@ -5,10 +5,10 @@
 
 ### 🧭 About Me
 
-I'm an **Electronic Engineering student specialized in Embedded Systems** at **ENSEIRB-MATMECA (INP Bordeaux)**, currently completing a **double degree** with **ENET’COM (Tunisia)**.  
+I'm an **Electronic Engineering student specialized in Embedded Systems** at **ENSEIRB-MATMECA (INP Bordeaux)**, currently completing a **double degree** with **ENET’COM **.  
 Driven by innovation and optimization, I aim to design **reliable, efficient, and intelligent embedded solutions** for real-world challenges.
 
-🎯 **Goal:** Become an expert in embedded systems and digital design, bridging **hardware and intelligence** (IoT, AI, Edge computing).
+🎯 **Goal:** Become an expert in embedded systems and digital design, bridging **hardware and intelligence**.
 
 ---
 
@@ -104,11 +104,8 @@ Real-time production monitoring using **Siemens LOGO!** PLC and **Raspberry Pi**
 ---
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maleek-Bejaoui&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maleek-Bejaoui&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maleek-Bejaoui&layout=compact&theme=radical)
 
 ---
 
