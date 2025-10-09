@@ -16,7 +16,7 @@ Driven by innovation and optimization, I aim to design **reliable, efficient, an
 
 #### 🔹 Embedded Systems
 `C` • `C++` • `Python` • `Assembly` • `STM32` • `AVR` • `Raspberry Pi` • `FreeRTOS`  
-`PCB Design (KiCad, Proteus)` • `DSP` • `TinyML` • `Test & Validation`
+`PCB Design` • `DSP`  • `TinyML` • `Test & Validation`
 
 #### 🔹 Digital Design
 `VHDL` • `Verilog` • `Vivado` • `FPGA (Artix-7)` • `ASIC Design` • `SoC Integration`
