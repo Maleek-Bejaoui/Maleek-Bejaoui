@@ -76,9 +76,6 @@ Real-time production monitoring using **Siemens LOGO!** PLC and **Raspberry Pi**
   *ENSEIRB-MATMECA (INP Bordeaux), France* — 2024 → Present  
 - 🎓 **Industrial Computer Engineering (Double Degree)**  
   *ENET’COM Sfax, Tunisia* — 2023 → 2024  
-- 🎓 **Licence in Automation & Industrial Computing**  
-  *ISET Rades, Tunisia* — 2019 → 2022  
-
 ---
 
 ### 🤝 Associations & Leadership
