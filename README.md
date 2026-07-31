@@ -1,88 +1,107 @@
 <h1 align="center">👋 Hi, I'm Malek BEJAOUI</h1>
-<h3 align="center">🎓 Embedded Systems Engineer | 🇫🇷 Based in France</h3>
+<h3 align="center">⚙️ Junior Embedded Systems Engineer | 🇫🇷 Based in Bordeaux, France</h3>
+<p align="center">🚀 Available from September/October 2026</p>
 
 ---
 
 ### 🧭 About Me
 
-I'm an **Electronic Engineering student specialized in Embedded Systems** at **ENSEIRB-MATMECA (INP Bordeaux)**, currently completing a **double degree** with **ENET’COM **.  
-Driven by innovation and optimization, I aim to design **reliable, efficient, and intelligent embedded solutions** for real-world challenges.
+I'm a **Junior Electronic & Embedded Systems Engineer**, graduating from **ENSEIRB-MATMECA (INP Bordeaux)** with a double degree from **ENET'COM (Sfax)**.  
+I like working across the **full development cycle** of an embedded product — from architecture definition to integration, debugging, validation and optimization — with a strong focus on **reliability, software quality, and maintainability**.
 
-🎯 **Goal:** Become an expert in embedded systems and digital design, bridging **hardware and intelligence**.
+🎯 **Goal:** Design robust, production-ready embedded systems, from hardware to firmware to software.
 
 ---
 
 ### ⚙️ Technical Skills
 
+#### 🔹 Programming
+`C` • `C++` • `Python` • `Assembly` • `Java` • `Bash` • `Makefile`
+
 #### 🔹 Embedded Systems
-`C` • `C++` • `Python` • `Assembly` • `STM32` • `AVR` • `Raspberry Pi` • `FreeRTOS`  
-`PCB Design` • `DSP`  • `TinyML` • `Test & Validation`
+`STM32` • `ESP32-S3` • `Raspberry Pi` • `FreeRTOS` • `RTOS` • `Linux embarqué`  
+`Digital & Analog Electronics` • `PCB` • `Communication Protocols (SPI, I2C, UART, I2S)` • `Test & Validation`
 
-#### 🔹 Digital Design
-`VHDL` • `Verilog` • `Vivado` • `FPGA (Artix-7)` • `ASIC Design` • `SoC Integration`
+#### 🔹 Digital & Hardware Design
+`VHDL` • `Verilog` • `Vivado` • `Vitis HLS` • `FPGA (Artix-7)` • `RISC-V` • `CVA6` • `ASIC / SoC Design` • `TinyTapeout`
 
-#### 🔹 Software & Tools
-`LabVIEW` • `Makefile` • `Git/GitHub` • `Grafana` • `Cloud Monitoring` • `Linux`
+#### 🔹 Embedded AI & Data
+`PyTorch` • `TensorFlow` • `YOLO` • `CNN` • `DNN` • `TFLite / TFLite Micro` • `ONNX`  
+`Quantization` • `Pruning` • `HLS4ML` • `Real-time Inference`
 
-#### 🔹 Development Models
+#### 🔹 Development Methodologies
 `Agile / SCRUM` • `Cycle en V` • `Lean Six Sigma`
 
 #### 🔹 Soft Skills
-Adaptability • Problem Solving • Teamwork • Critical Thinking
+Autonomy • Curiosity • Teamwork • Problem Solving • Critical Thinking
 
 ---
 
-### 🛰 Featured Projects
+### 🚀 Featured Projects
+
+#### 🛩️ **Flight Controller & Ground Station for Drone – Kariboo SAS (2026)**
+Final-year project: firmware development for a drone flight controller and desktop ground station.  
+**Keywords:** STM32H5/STM32L4, FreeRTOS (interrupts, DMA, queues, mutex/semaphores), SI4468 radio, IMU, GPS, RTC, SD card, MAVLink 2, Electron.
+
+---
+
+#### 🫀 **Portable ECG/EEG Acquisition Device – Kariboo SAS (2026)**
+R&D project: firmware and signal processing for a portable biopotential acquisition device.  
+**Keywords:** ESP32-S3, 24-bit 4-channel ADC, I2S, RTC, circular buffer, SD card, FFT, Butterworth filtering, R-peak detection.
+
+---
+
+#### 🧠 **Embedded AI – Optimized Models for Edge Targets (2025)**
+Design, optimization and deployment of neural networks on constrained embedded targets.  
+**Keywords:** CNN, ARM Cortex-A, STM32, FPGA (Nexys) via HLS4ML, YOLOv8n fine-tuning/quantization, NCNN export, multi-platform benchmarking.
+
+---
 
 #### 🛰 **SCOOP Payload – NAASC (2025)**
-Development of the embedded software for the **NanoNAASC** nanosatellite payload under CNES/ESA collaboration.  
-**Keywords:** C, AVR/STM32, SPIkCU, EGSE, telemetry (HK/SK), testing & validation.  
+Embedded software development for the **NanoNAASC** nanosatellite payload, under CNES collaboration.  
+**Keywords:** C, EGSE, FSM design, requirements analysis, test scripts, software definition document (DD), CDR presentation to CNES experts.  
 🔗 [NAASC Official Website](https://www.naasc.fr/)
 
 ---
 
-#### 💻 **16-bit RISC-V CPU ASIC (ENSEIRB Project, 2025)**
-Design and simulation of a custom **16-bit CPU** with a RISC-V-inspired architecture.  
-**Keywords:** FPGA (Artix-7), VHDL, Verilog, Assembler, Processor Architecture.
+#### 💻 **16-bit RISC-V CPU – FPGA & ASIC Tapeout (ENSEIRB, 2025)**
+Design and implementation of a custom 16-bit RISC-V CPU, deployed on FPGA and taped out as an ASIC.  
+**Keywords:** FPGA (Artix-7), VHDL, Verilog, RISC-V, TinyTapeout design flow.
 
 ---
 
-#### 🎮 **FPGA Pong Game (ENSEIRB Project, 2024)**
-Implementation of a digital Pong game on **NEXYS-4 (Artix-7)** using **VHDL**.
+#### 🎮 **FPGA Pong Game (ENSEIRB, 2024)**
+Digital implementation of a Pong game on **NEXYS-4 (Artix-7)** using VHDL.
 
 ---
 
-#### 📡 **RF Communication via LoRa for CubeSat 1U (ENET’COM Project, 2024)**
-Design of a **LoRa-based communication link** between ECUs for a 1U CubeSat prototype.  
+#### 📡 **RF Communication via LoRa for CubeSat 1U (ENET'COM, 2024)**
+LoRa-based long-range communication link between ECUs for a 1U CubeSat prototype.  
 **Keywords:** RF, SPI, UART, C, Python, Cloud, Grafana, project management (SCRUM).
 
 ---
 
-#### ⚡ **Electrical Converter Test Bench (LEONI Internship, 2023)**
-Development and simulation of a **converter test system** for cable inspection.  
-**Keywords:** LabVIEW, RS232, Arduino, IHM, Proteus.
-
----
-
-#### 🏭 **Industrial Production Monitoring System (TTE International, 2022)**
-Real-time production monitoring using **Siemens LOGO!** PLC and **Raspberry Pi**.  
-**Keywords:** Cloud, Python, Web Dashboard, Data visualization.
+#### 🏭 **Industrial Production Monitoring System – TTE International (2022)**
+Real-time production monitoring using a Siemens PLC and Raspberry Pi.  
+**Keywords:** Ethernet, MySQL, Python, responsive web dashboard, real-time alerts.
 
 ---
 
 ### 🎓 Education
 
-- 🎓 **Electronic Engineering – Embedded Systems (in progress)**  
-  *ENSEIRB-MATMECA (INP Bordeaux), France* — 2024 → Present  
-- 🎓 **Industrial Computer Engineering (Double Degree)**  
-  *ENET’COM Sfax, Tunisia* — 2023 → 2024  
+- 🎓 **Electronic Engineering – Embedded Systems**  
+  *ENSEIRB-MATMECA (INP Bordeaux), France* — 2024 → 2026  
+- 🎓 **Industrial Computer Engineering – Intelligent Interconnected Systems (Double Degree)**  
+  *ENET'COM, Sfax, Tunisia* — 2022 → 2024  
+- 🎓 **Associate Degree in Automation & Industrial Computing**  
+  *ISET Rades, Tunisia* — 2021 → 2022  
+
 ---
 
 ### 🤝 Associations & Leadership
 
-- 🤖 **Vice-President** — Club Robotek ISET Rades  
-- 🧩 **Trainer** — Robotics & Embedded Prototyping (student clubs)  
-- 👨‍🏫 **Coach** — Tunisian Robotics Academy *Les Petits Génies de la Tunisie*  
+- 🤖 **Co-founder & Vice-President** — Robotics Club  
+- 🧩 **Volunteer Trainer** — Robotics & Embedded Prototyping (student clubs)  
 
 ---
 
@@ -96,6 +115,7 @@ Real-time production monitoring using **Siemens LOGO!** PLC and **Raspberry Pi**
 ### 📫 Contact Me
 
 - 📧 **malek.bejaoui@bordeaux-inp.fr**  
+- 📱 +33 7 80 83 78 56
 - 🔗 [LinkedIn](https://www.linkedin.com/in/maleek-bejaoui)  
 
 ---
@@ -103,8 +123,6 @@ Real-time production monitoring using **Siemens LOGO!** PLC and **Raspberry Pi**
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maleek-Bejaoui&layout=compact&theme=radical)
 
-
 ---
 
 ⭐️ *From [Malek BEJAOUI](https://github.com/Maleek-Bejaoui)*
-
