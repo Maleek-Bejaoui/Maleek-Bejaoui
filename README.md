@@ -120,9 +120,4 @@ Real-time production monitoring using a Siemens PLC and Raspberry Pi.
 
 ---
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maleek-Bejaoui&layout=compact&theme=radical)
-
----
-
 ⭐️ *From [Malek BEJAOUI](https://github.com/Maleek-Bejaoui)*
