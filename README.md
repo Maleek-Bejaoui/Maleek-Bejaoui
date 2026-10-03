@@ -39,9 +39,9 @@ Autonomy • Curiosity • Teamwork • Problem Solving • Critical Thinking
 
 ### 🚀 Featured Projects
 
-#### 🛩️ **Flight Controller & Ground Station for Drone – Kariboo SAS (2026)**
+#### 🛩️ **Design, development and validation of an embedded communication chain for UAVs – Kariboo SAS (2026)**
 Final-year project: firmware development for a drone flight controller and desktop ground station.  
-**Keywords:** STM32H5/STM32L4, FreeRTOS (interrupts, DMA, queues, mutex/semaphores), SI4468 radio, IMU, GPS, RTC, SD card, MAVLink 2, Electron.
+**Keywords:** PX4 integration, UAV, STM32H5/STM32L4, FreeRTOS (interrupts, DMA, queues, mutex/semaphores), SI4468 radio, IMU, GPS, RTC, SD card, MAVLink 2, GCS.
 
 ---
 
