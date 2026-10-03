@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm Malek BEJAOUI</h1>
 <h3 align="center">⚙️ Junior Electronic & Embedded Systems Engineer | 🇫🇷 Based in Bordeaux, France</h3>
-<p align="center">🚀 Available from September/October 2026</p>
 
 ---
 
